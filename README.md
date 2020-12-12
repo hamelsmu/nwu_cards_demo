@@ -1,24 +1,28 @@
-# Project name here
-> Summary description here.
+# nwu_cards_demo
+> Thanks for watching my demo
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nwu_cards_demo`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+deck = Deck()
+```
+
+```python
+deck.pop_card()
 ```
 
 
 
 
-    2
+    King of Spades
 
 
